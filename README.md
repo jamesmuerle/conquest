@@ -1,0 +1,1 @@
+This is an implementation of the Warhammer 40k: Conquest LCG, made by Fantasy Flight Games.
